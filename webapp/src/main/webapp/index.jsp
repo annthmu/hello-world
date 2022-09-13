@@ -31,14 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-<<<<<<< HEAD
    <h1> Thank you so much  </h1>
    <h1> Have a nice day </h1>
 
-=======
-   <h1> Thankyou, Bitches </h1>
-   <h1> Have a fucking wonderful day </h1>
-   <h1> I am AKS </h1> 
-   <h1> I am Annt</h1>
->>>>>>> refs/remotes/origin/master
 </form>
