@@ -33,7 +33,5 @@
 
    <h1> Thank you so much  </h1>
    <h1> Have a nice day </h1>
-   <h1> Annt Hmu Maw  </h1>
-   <h1> Good Job  </h1>
-   <h1> Ko Nan Win  </h1>
+  
 </form>
